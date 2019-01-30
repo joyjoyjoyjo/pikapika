@@ -20,12 +20,12 @@
     /*
      *先准备皮卡丘的皮
      */
-    .preview {
+    .preview {       
         height: 100%;
+        background: #FEE433;
         display: flex;
         justify-content: center;
-        align-items: center;
-        background: #FEE433;
+        align-items: center;   
     }
     
     .wrapper {
