@@ -165,7 +165,7 @@
         border-radius: 50px;
     }
     /*
-    *ojbk
+    *一个皮卡丘画好了~~
     */`
     writeCode('', code)
     $(`.actions`).on('click', 'button', function (e) {
